@@ -4,7 +4,7 @@ package com.xuhanping.arrayProblems;
  * @author xuhanping
  * @date 2020/10/24 5:53 下午
  */
-public class Problems0004 {
+public class Problem0004 {
     public static void main(String[] args) {
         System.out.println(findMedianSortedArrays(new int[]{1,3}, new int[]{2}));
     }
